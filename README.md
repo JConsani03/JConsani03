@@ -1,6 +1,7 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<div style="text-align: center">
+<h1 style="text-align: center">Hola, soy Andrés 👋</h1>
 </div>
+<!--align="center"-->
 
 
 
