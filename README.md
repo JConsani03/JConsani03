@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-    <p style="text-align: center;">¡Hola mundo 👋! ¡Soy Andrés García!</p> 
-</div>
+<p style="text-align: center;">¡Hola mundo 👋! ¡Soy Andrés García!</p> 
+
 
 
 <!--
