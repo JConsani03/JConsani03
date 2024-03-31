@@ -1,6 +1,8 @@
-### Hi there 👋
+<div text-align="center">
+    <h1>¡Hola mundo 👋! ¡Soy Andrés García!/h1>  
+    
+</div>
 
-<h1>Prueba</h1>
 
 <!--
 **JConsani03/JConsani03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
