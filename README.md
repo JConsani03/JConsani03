@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Andrés 👋</h1>
 </div>
 
-[![YouTube Channel Sub](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
