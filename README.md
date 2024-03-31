@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Andrés 👋</h1>
 </div>
-(https://img.shields.io/badge/any_text-you_like-blue)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 <!--align="center"-->
 
 
