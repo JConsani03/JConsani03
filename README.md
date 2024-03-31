@@ -1,6 +1,5 @@
-
-<div style="text-align: center">
-    <p style="text-align: center;">¡Hola mundo 👋! ¡Soy Andrés García!</p> 
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
 </div>
 
 
