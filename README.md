@@ -1,4 +1,4 @@
-<div text-align="center">
+<div style="text-align: -webkit-center;">
     <h1>¡Hola mundo 👋! ¡Soy Andrés García!/h1>  
     
 </div>
