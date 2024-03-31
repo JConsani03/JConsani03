@@ -2,8 +2,7 @@
 <h1 align="center">Hola, soy Andrés 👋</h1>
 </div>
 
-[![](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/any_text-you_like-blue))
 
 
 <!--align="center"-->
