@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Andrés 👋</h1>
 </div>
 
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!--align="center"-->
